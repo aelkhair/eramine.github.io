@@ -1,5 +1,5 @@
-title: [Your Name]'s Personal Page
-description: Research, publications, and thoughts on [Your Field]
+title: "Your Name's Personal Page"
+description: "Research, publications, and thoughts on Your Field"
 theme: minima
 plugins:
   - jekyll-feed

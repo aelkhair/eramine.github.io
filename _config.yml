@@ -1,0 +1,12 @@
+title: [Your Name]'s Personal Page
+description: Research, publications, and thoughts on [Your Field]
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - cv.md
+  - publications.md
+
+permalink: /blog/:year/:month/:day/:title
